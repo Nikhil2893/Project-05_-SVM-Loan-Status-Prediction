@@ -51,7 +51,7 @@ I have followed the YouTube tutorial of "Siddardhan"
 
 ## Documentation
 
-[Click the link to study Logistic regression](https://www.datacamp.com/tutorial/understanding-logistic-regression-python)
+[Click the link to study Support Vector Machine](https://www.geeksforgeeks.org/support-vector-machine-algorithm)
 
 
 ## Installation
