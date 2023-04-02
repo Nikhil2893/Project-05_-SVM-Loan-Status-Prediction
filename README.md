@@ -37,10 +37,6 @@ Dataset Link: https://www.kaggle.com/datasets/ninzaami/loan-predication
 
 Model achieved accuracy of 79% on training data and 83% on test data
 
-![004](https://user-images.githubusercontent.com/114944969/229354452-9d983798-6e90-4a11-9cda-ff03e346c350.jpg)
-
-![005](https://user-images.githubusercontent.com/114944969/229354529-5e918d1a-5632-456a-a80f-07cdafce6598.jpg)
-
 ![006](https://user-images.githubusercontent.com/114944969/229363320-b987adf1-4629-4f2f-8525-40ce9e9af468.jpg)
 
 ## Acknowledgements
